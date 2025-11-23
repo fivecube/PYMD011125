@@ -1,0 +1,21 @@
+{
+  "order_number": "A123",
+  "date_of_order": "16/11/2025",
+  "amount": "2000INR",
+  "address": "HouseNo1, Ram Nagar, Jaipur, Rajasthan",
+  "cash_on_delivery": true,
+  "gift_wrap": null,
+  "gift_message": "Happy Birthday!",
+  "order_items": [
+    {
+      "item_id": "A123_1",
+      "name_of_product": "toothbrush_101",
+      "price": 100
+    },
+    {
+      "item_id": "A123_2",
+      "name_of_product": "choclate_101",
+      "price": 300
+    }
+  ]
+}

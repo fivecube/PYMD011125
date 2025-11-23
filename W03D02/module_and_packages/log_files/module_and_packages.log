@@ -1,0 +1,30 @@
+2025-11-23 20:38:52,089 - INFO - We are going to add 50 and 100
+2025-11-23 20:38:52,090 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:38:52,090 - INFO - We are going to divide 100 by 0
+2025-11-23 20:38:52,090 - ERROR - You can not divide by 0
+2025-11-23 20:50:17,407 - INFO - We are going to add 50 and 100
+2025-11-23 20:50:17,408 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:50:17,408 - INFO - We are going to divide 100 by 0
+2025-11-23 20:50:17,408 - ERROR - You can not divide by 0
+2025-11-23 20:54:15,014 - INFO - We are going to add 50 and 100
+2025-11-23 20:54:15,016 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:54:15,954 - INFO - We are going to divide 100 by 0
+2025-11-23 20:54:15,955 - ERROR - You can not divide by 0
+2025-11-23 20:55:32,720 - INFO - We are going to add 50 and 100
+2025-11-23 20:55:32,721 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:55:33,014 - INFO - We are going to divide 100 by 0
+2025-11-23 20:55:33,015 - ERROR - You can not divide by 0
+2025-11-23 20:58:32,686 - INFO - We are going to add 50 and 100
+2025-11-23 20:58:32,687 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:58:32,687 - INFO - We are going to divide 100 by 0
+2025-11-23 20:58:32,687 - ERROR - You can not divide by 0
+2025-11-23 20:58:54,008 - INFO - We are going to add 50 and 100
+2025-11-23 20:58:54,008 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:58:54,008 - INFO - We are going to divide 100 by 0
+2025-11-23 20:58:54,008 - ERROR - You can not divide by 0
+2025-11-23 20:59:21,359 - INFO - We are going to add 50 and 100
+2025-11-23 20:59:21,359 - INFO - The result of adding 50 and 100 is 150
+2025-11-23 20:59:21,359 - INFO - We are going to divide 100 by 0
+2025-11-23 20:59:21,359 - ERROR - You can not divide by 0
+2025-11-23 21:01:04,606 - INFO - We are going to divide 100 by 0
+2025-11-23 21:01:04,606 - ERROR - You can not divide by 0
